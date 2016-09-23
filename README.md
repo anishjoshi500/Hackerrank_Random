@@ -1,1 +1,3 @@
-# Hackerrank_Random_Programs
+# Hackerrank Random
+
+Random Hackerrank Programs
