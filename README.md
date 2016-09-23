@@ -1,3 +1,3 @@
 # Hackerrank Random
 
-Some Random Hackerrank Codes
+Some Random Hackerrank Program
